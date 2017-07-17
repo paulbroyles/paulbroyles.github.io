@@ -1,14 +1,14 @@
 # Site wide configuration
 
-title: Paul's Test Site
+title: Paul A. Broyles
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Paul Broyles
+  name: Paul A. Broyles
   avatar: IMG_0010.JPG
-  bio: "A brief description of yourself."
+  bio: "CLIR Postdoctoral Fellow in Data Curation for Medieval Studies"
   email: pabroyle@ncsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: paulbroyles
